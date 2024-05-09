@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in AI and machine learning.
 
-- 🌱 I’m currently learning python and mysql.
+- 🌱 I’m currently learning python and java.
 
 - 💞️ I’m looking to collaborate on projects that involve anything AI related.
 
